@@ -20,3 +20,5 @@ Ludmila Mothé
 
 - [Gmail](mailto:ludmila.mothe@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ludmilamothe/)
+
+<img align="center" alt="400" height="400" src="https://media.giphy.com/media/KPAwhonT5qYeVJu5H7/giphy.gif">
